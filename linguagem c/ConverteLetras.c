@@ -1,3 +1,4 @@
+//Transforma todas as letras de um texto em letras maiusculas
 #include <stdio.h>
 #include <stdlib.h>
 
